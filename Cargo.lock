@@ -41,7 +41,7 @@ dependencies = [
 [[package]]
 name = "astarte_sdk"
 version = "0.1.0"
-source = "git+https://github.com/astarte-platform/astarte-device-sdk-rust.git#45e41c5fe8d80bb3e49b181c7ea0f3fdef8a4183"
+source = "git+https://github.com/astarte-platform/astarte-device-sdk-rust.git#908817e15e2149d21bb607fcdfefe736a53bc06b"
 dependencies = [
  "async-trait",
  "base64",
